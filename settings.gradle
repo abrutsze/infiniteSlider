@@ -1,0 +1,6 @@
+include ':entity'
+include ':entities'
+include ':domian'
+include ':data'
+include ':app'
+rootProject.name = "TaskApp"
